@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow:
+
+Sitemap: https://lepicerie-creole-sainte-anne.pages.dev/sitemap.xml

@@ -1,0 +1,10 @@
+{
+  "name": "L'Épicerie Créole",
+  "short_name": "Épicerie Créole",
+  "description": "Boutique artisanale guadeloupéenne à Sainte-Anne — rhums, épices, cosmétiques",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#FFFFFF",
+  "theme_color": "#B83000",
+  "icons": []
+}

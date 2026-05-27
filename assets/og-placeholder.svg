@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#B83000"/>
+  <rect x="0" y="0" width="1200" height="630" fill="url(#grad)"/>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#B83000;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#92400E;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <text x="600" y="280" font-family="Georgia, serif" font-size="72" font-weight="700" fill="#FDE68A" text-anchor="middle">L'Épicerie Créole</text>
+  <text x="600" y="370" font-family="Georgia, serif" font-size="36" fill="#FFFFFF" text-anchor="middle">Saveurs artisanales · Sainte-Anne, Guadeloupe</text>
+</svg>

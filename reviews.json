@@ -1,0 +1,34 @@
+{
+  "place_id": "ChIJxV90LwFLE4wRn4mVEtsppDk",
+  "fetched_at": "2026-05-27T08:00:00Z",
+  "source": "stub",
+  "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxV90LwFLE4wRn4mVEtsppDk",
+  "rating_avg": 4.3,
+  "rating_count": 71,
+  "reviews": [
+    {
+      "author_name": "Marie-Laure T.",
+      "author_url": "https://www.google.com/maps/contrib/stub",
+      "rating": 5,
+      "relative_time_description": "il y a 2 mois",
+      "time": 1740000000,
+      "text": "Une boutique authentique, des produits de qualité, une ambiance qui sent bon la Guadeloupe. On ne repart jamais les mains vides !"
+    },
+    {
+      "author_name": "Jean-Pierre M.",
+      "author_url": "https://www.google.com/maps/contrib/stub",
+      "rating": 5,
+      "relative_time_description": "il y a 3 mois",
+      "time": 1737000000,
+      "text": "Impossible de visiter Sainte-Anne sans s'arrêter ici. Le rhum arrangé mangue-coco est exceptionnel."
+    },
+    {
+      "author_name": "Sandrine B.",
+      "author_url": "https://www.google.com/maps/contrib/stub",
+      "rating": 4,
+      "relative_time_description": "il y a 5 mois",
+      "time": 1730000000,
+      "text": "Très bon choix de produits locaux. Fanely est accueillante et de bon conseil. Je recommande les coffrets cadeaux."
+    }
+  ]
+}
